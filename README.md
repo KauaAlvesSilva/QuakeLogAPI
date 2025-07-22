@@ -64,7 +64,8 @@ dotnet run
 GET http://localhost:5000/parser?filePath=caminho do arquivo
 ```
 
-> 🔁 **Importante:** Passe o caminho do arquivo filePath.
+> 🔁 **Importante:** Deixei o arquivo de teste na pasta "Arquivos" no diretorio da API (games.log).
+> 🔁 **Importante 2:** Passe o caminho do arquivo filePath.
 
 ## 🧪 Exemplo de uso
 
